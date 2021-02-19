@@ -1,0 +1,12 @@
+* {
+    margin: ;
+}
+table {
+    border: 15px solid rgb(107, 98, 98);
+    width: 180px;
+    height: 180px;
+}
+
+.black{
+    background-color: black;
+}
