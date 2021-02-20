@@ -20,5 +20,5 @@ function change(event){
 
     
  }
- const obj2 = document.querySelector(".board");
- obj2.addEventListener('click',change);
+ const obj = document.querySelector('.board');
+ obj.addEventListener('click',change);
